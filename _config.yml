@@ -12,8 +12,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Dr. Georg Förster
-  tagline: Diplom-Psychologe
+  name: Georg Förster
+  tagline: Diplom-Psychologe, Dr. phil.
   date_format: "%d %m %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
